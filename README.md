@@ -1,11 +1,11 @@
-# 👋 Hi there, I'm Gustavo Hernández
+# Hi there, I'm Gustavo Hernández
 
-💻 Desarrollador y analista de proyectos tecnológicos  
-🚀 Interesado en despliegue de sistemas, administración de servidores y desarrollo de software.
+Desarrollador y analista de proyectos tecnológicos  
+Interesado en despliegue de sistemas, administración de servidores y desarrollo de software.
 
 ---
 
-## 🔭 Actualmente estoy trabajando en
+## Actualmente estoy trabajando en
 
 - Desarrollo y mantenimiento de proyectos web
 - Administración de repositorios en GitHub
@@ -14,7 +14,7 @@
 
 ---
 
-## 🌱 Actualmente estoy aprendiendo
+## Actualmente estoy aprendiendo
 
 - Docker y contenedores
 - Cloud Computing
@@ -24,7 +24,7 @@
 
 ---
 
-## 👯 Busco colaborar en
+## Busco colaborar en
 
 - Proyectos de desarrollo web
 - Implementación de sistemas institucionales
@@ -33,7 +33,7 @@
 
 ---
 
-## 🤔 Busco ayuda con
+## Busco ayuda con
 
 - Arquitectura de sistemas
 - Escalabilidad de aplicaciones
@@ -42,7 +42,7 @@
 
 ---
 
-## 💬 Pregúntame sobre
+##Pregúntame sobre
 
 - Git y GitHub
 - Docker
@@ -52,13 +52,13 @@
 
 ---
 
-## 📫 Cómo contactarme
+##Cómo contactarme
 
 - GitHub: https://github.com/gustavohernandez795-prog
 
 ---
 
-## ⚡ Dato curioso
+##Dato curioso
 
 Me gusta aprender nuevas tecnologías y entender **cómo funcionan los sistemas desde el desarrollo hasta el despliegue en producción**.
 
